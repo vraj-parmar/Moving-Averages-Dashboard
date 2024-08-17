@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your project:
-
----
-
 # **TSMC Stock Analysis Dashboard**
 
 ## **Overview**
